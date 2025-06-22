@@ -4,7 +4,7 @@
 
 **SwapPay** is a Solana bill-splitting mobile dapp  powered by the **Jupiter Aggregator**. It lets users split group expenses and settle bills using any SPL token — BONK, SOL, JUP, USDC, and more — with automatic swaps handled via Jupiter to ensure that the recipient receives exactly what they expect.
 
-This project was built as part of the **Namaste Jupiverse Hackathon**, hosted in Hyderabad.
+This project was built as part of the **Namaste Jupiverse Hackathon**, hosted in cokaram, Hyderabad
 
 ---
 
