@@ -35,8 +35,8 @@ This a backend application that simplifies expense sharing. It allows users to c
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/split-wise.git
-    cd split-wise
+    git clone https://github.com/vijay-kesanakurthi/swap-pay
+    cd swap-pay/backend
     ```
 
 2.  **Install dependencies:**
@@ -49,8 +49,11 @@ This a backend application that simplifies expense sharing. It allows users to c
     ```env
     DATABASE_URL="your_postgresql_connection_string"
     ```
+    
+4. **Create tables in database**
+    Create the tables in Supabase using sql in `databases/sql`
 
-4.  **Run the application:**
+5**Run the application:**
     ```sh
     go run main.go
     ```
