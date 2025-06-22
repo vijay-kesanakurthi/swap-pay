@@ -1,4 +1,4 @@
-# Jup SplitWise
+# SwapPay
 
 > A Solana-native bill splitting app powered by the Jupiter Swap Aggregator.
 
@@ -12,7 +12,7 @@ Most expense-splitting apps assume a shared currency or payment system. In crypt
 
 Traditional tools fall short here.
 
-### 🔥 Enter: **Jup SplitWise**
+### 🔥 Enter: **SwapPay**
 
 - Pay with **any SPL token**
 - Recipient gets paid in their **preferred token**
@@ -24,6 +24,14 @@ Traditional tools fall short here.
 > B pays 2 JUP  
 > → Recipient gets 180 USDC — auto-converted
 
+
+---
+
+## 📱 Download
+
+You can download and try the app using the APK below:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](https://drive.google.com/file/d/1k0aGz_RmIY5oE6y4G9skWyXX3LzOc68T/view?usp=sharing)
 
 ---
 
