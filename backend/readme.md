@@ -2,7 +2,7 @@
 
 > Split bills with friends in any token. Receive in your token of choice.
 
-Split-Wise is a backend application that simplifies expense sharing. It allows users to create groups, log expenses, and settle up debts. What makes it unique is its integration with the Jupiter API, enabling users to pay their share of a bill using any Solana token, which is then automatically swapped to the bill creator's preferred token.
+This a backend application that simplifies expense sharing. It allows users to create groups, log expenses, and settle up debts. What makes it unique is its integration with the Jupiter API, enabling users to pay their share of a bill using any Solana token, which is then automatically swapped to the bill creator's preferred token.
 
 
 ## 🛠️ How it works:
@@ -76,4 +76,5 @@ The API provides endpoints for managing groups, expenses, and payments.
 
 ### Payments
 - `POST /payments/quote`: Get a quote for a token swap.
-- `POST /payments/swap-and-pay`: Execute the token swap and settle an expense.
+- `POST /payments/swap-and-pay`: Execute the token swap and return the transaction for sign.
+- `POST /payment/paid`: Mark split as paid and save the tx.
