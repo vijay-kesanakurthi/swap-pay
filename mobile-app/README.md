@@ -63,14 +63,14 @@ You can download and try the app using the APK below:
 
 ## Tech Stack
 
-| 🚀 Technology            | 📝 Description                                     |
-|-------------------------|--------------------------------------------------|
-| 🐦 **Flutter**           | Cross-platform UI toolkit for building the app  |
-| ⚙️ **GetX**              | Lightweight state management, routing & DI      |
-| 🔗 **Solana**            | Blockchain for wallet auth & token transfers    |
-| 🔁 **Jupiter API**       | Token swap engine for SPL tokens                |
-| 🧠 **Solana Web3 SDK**   | Transaction generation & signing (JS/Go)        |
-| 🎨 **Material Design**   | Modern UI components and theming                |
+| 🚀 Technology            | 📝 Description                             |
+|-------------------------|--------------------------------------------|
+| 🐦 **Flutter**           | Cross-platform UI toolkit for building the app |
+| ⚙️ **GetX**              | Lightweight state management, routing & DI |
+| 🔗 **Solana**            | Blockchain for wallet auth & token transfers |
+| 🔁 **Jupiter API**       | Token swap engine for SPL tokens           |
+| 🧠 **Solana Web3 SDK**   | Transaction generation & signing           |
+| 🎨 **Material Design**   | Modern UI components and theming           |
 
 
 ---

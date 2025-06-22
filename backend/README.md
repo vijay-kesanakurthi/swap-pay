@@ -53,7 +53,7 @@ This a backend application that simplifies expense sharing. It allows users to c
 4. **Create tables in database**
     Create the tables in Supabase using sql in `databases/sql`
 
-5**Run the application:**
+5. **Run the application:**
     ```sh
     go run main.go
     ```
