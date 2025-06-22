@@ -38,6 +38,9 @@ Using Jupiter’s liquidity aggregation engine, SwapPay automatically swaps toke
 - 🔐 **Phantom Wallet Integration**: Authenticate and sign transactions securely.
 - 📱 **Mobile-First Experience**: Built in Flutter .
 
+## 🎥 Demo (Video Walkthrough)
+🔗 [Watch Demo](https://www.loom.com/share/27e5140ccf454c74b6ef86332f6930d4)
+
 
 ## 📷 Screenshots
 
