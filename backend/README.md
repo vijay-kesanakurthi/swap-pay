@@ -1,4 +1,4 @@
-# Swap-Pay
+# Swap-Pay Backend
 
 > Split bills with friends in any token. Receive in your token of choice.
 
